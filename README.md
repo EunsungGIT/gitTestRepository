@@ -22,4 +22,4 @@ git&github 순서
 1. git status
     Local과 Staging 상태에서 작업물의 등록 상태 체크
 2. git log
-    commit과 Push 상태에서 작업물의 Commit기록과 업로드 정보 체크
+    commit과 Push 상태에서 작업물의 Commit 기록과 업로드 정보 체크
