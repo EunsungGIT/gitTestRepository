@@ -1,0 +1,7 @@
+GITHUB 명령어
+1.git remode add origin GITHUB 주소
+    origin = 주소의 이름
+
+GITHUB 명령어 순서
+git init -> git branch -M main -> git remote add origin 주소 -> git add README.md -> git commit -m "first commit" -> git push -u origin main
+init / branch / remote는 처음에 한번만, add / commit / push는 반복 중간중간 status / log로 점검
