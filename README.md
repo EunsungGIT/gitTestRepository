@@ -126,3 +126,11 @@ http://naver.com 네이버가 망하지 않으면 안 사라짐.
 절대경로는 http:// 웹 프로토콜로 시작한다.
 
 <a href="">
+------------------------------------------------------
+# inline image tag
+    src 이미지 경로 속성의 값으로는 상대경로 방식으로 작성하는 것을 권장합니다.
+    대체 텍스트 alt 속성을 필수로 작성해야 합니다.
+    이미지 사용 시 의미전달이 필요한 이미지와 아닌 이미지를 구분해서 사용해야 합니다.
+    <img src="url" alt="내용">
+# block figure / inline figcaption
+    <figure><img src="URL" alt=""><figcaption?>caption</figcaption></figure>
