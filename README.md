@@ -135,12 +135,15 @@ http://naver.com 네이버가 망하지 않으면 안 사라짐.
 # block figure / inline figcaption
     <figure><img src="URL" alt=""><figcaption?>caption</figcaption></figure>
 ------------------------------------------------------
-# block div
-    2개 이상의 인라인 or 블록 요소를 묶어주는 그룹 태그입니다.
-# inline span
-    2개 이상의 인라인 요소를 묶을 때 사용합니다.
 
+# 레이아웃 태그
+*  block div
+    2개 이상의 인라인 or 블록 요소를 묶어주는 그룹 태그입니다.
+*  inline span
+    2개 이상의 인라인 요소를 묶을 때 사용합니다.
 # 태그 + 이름 속성 Class, id
 * .class : 반복 유형 분류 시 사용, 반복지정 가능
 * id : 전체 페이지 중 단 하나의 요소에만 지정 시 사용
     class, id는 태그 관계없이 모든 태그에 적용할 수 있다.
+
+* 반응형 웹 코드 [<meta name="viewport" content="width=device-width, initial-scale=1.0">]
