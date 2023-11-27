@@ -147,3 +147,5 @@ http://naver.com 네이버가 망하지 않으면 안 사라짐.
     class, id는 태그 관계없이 모든 태그에 적용할 수 있다.
 
 * 반응형 웹 코드 [<meta name="viewport" content="width=device-width, initial-scale=1.0">]
+
+# 
