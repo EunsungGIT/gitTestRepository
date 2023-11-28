@@ -148,4 +148,6 @@ http://naver.com 네이버가 망하지 않으면 안 사라짐.
 
 * 반응형 웹 코드 [<meta name="viewport" content="width=device-width, initial-scale=1.0">]
 
-# 
+# 순차/비순차 목록 태그
+* 1-1. <ol><li></li></ol>
+* 1-2. <ul><li></li></ul>
