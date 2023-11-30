@@ -154,3 +154,24 @@ http://naver.com 네이버가 망하지 않으면 안 사라짐.
 
 # 표(Table)의 기본과 읽는 방법
 * tr 행, td 내용 열
+
+# 입력
+* <input type="text" placeholder="한줄 입력"><br>
+* <input type="password" placeholder="입력 보안"><br>
+* <input type="tel" placeholder="전화번호"><br>
+* <input type="url" placeholder="주소"><br>
+* <input type="email" placeholder="이메일"><br>
+* <input type="number" placeholder="숫자"><br>
+* <input type="search" placeholder="검색어"><br>
+* <input type="time"><br> <!-- 시간입력 html5 -->
+* <input type="week"><br> <!-- 날짜입력(시간x) html5 -->
+* <input type="hidden"><br> <!-- 서버로 전송되는 숨김영역의 값 -->
+* <input type="checkbox"><input type="checkbox"> 선택양식<br> <!-- 다중선택 -->
+* <input type="radio"><input type="radio"> 선택양식<br> <!-- 단일선택 -->
+* <br>
+* <textarea>여러 줄 입력</textarea>
+
+# 부가 속성
+* readonly 읽기전용
+* required 필수 입력
+* disabled 비활성화
